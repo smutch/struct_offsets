@@ -6,9 +6,9 @@ Simply print out all the members of a struct with their byte offsets.
 Requirements
 ------------
 
-* Python 3.*
-* (Jinja2)[http://jinja.pocoo.org/]
-* (pyclibrary)[https://github.com/MatthieuDartiailh/pyclibrary]
+* Python 3.x
+* [Jinja2](http://jinja.pocoo.org/)
+* [pyclibrary](https://github.com/MatthieuDartiailh/pyclibrary)
 * A C compiler
 * Make
 
